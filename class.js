@@ -49,4 +49,3 @@ x.prpty="nwwevlue2"//! changing x will obj1 as well no copy direct reference
 console.log({x})
 
 console.log(obj1.newfn())
-
