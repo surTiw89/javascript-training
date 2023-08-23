@@ -36,4 +36,5 @@ console.log(carmymy.color1)
 console.log(carmymy.enginestatus)//!this is false
 carmymy.startEngine()//!this is makes it true
 console.log(carmymy.enginestatus)//! Now it is true
-process.stdout.write(carmymy.something)
+process.stdout.write(carmymy.something) // this is another way to print output on javascript
+
